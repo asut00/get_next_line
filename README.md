@@ -37,7 +37,7 @@ To add **get_next_line** to your project:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/get_next_line.git
+   git clone https://github.com/asut00/get_next_line.git
    cd get_next_line
    ```
 
