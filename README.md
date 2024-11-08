@@ -1,6 +1,5 @@
-# get_next_line
+# get_next_line 📜
 
-Welcome to **get_next_line**! 📜  
 This project is all about creating a function that reads a line from a file descriptor in C. **get_next_line** efficiently handles reading files of any size, line by line, without using any pre-built functions that automatically handle line breaks.
 
 ## Project Description
